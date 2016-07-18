@@ -1,0 +1,21 @@
+GIT INSTRUCTIONS // BY PAULSIDELEAU
+----------------------------
+
+Download git from  https://git-scm.com/
+Open command console / terminal 
+Clone your project. An example: 
+git clone https://mygithubid:mypassword@github.com/psideleau/myproject.git where mygithubid is your id you registered with on github and mypassword  is your password to log into github and where myproject is your team's project such as shu-cs604-2015
+
+
+   4. Add,Modify, Delete files
+
+   5. git add . 
+
+   6. git commit -m "describe my changes" 
+
+   7. git push 
+
+   8. You should see your changes in github
+
+   9. To get your teammates changes, execut  git pull --rebase 
+
